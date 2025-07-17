@@ -1,0 +1,257 @@
+[
+    {
+        "title": "OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI",
+        "author": "Maxwell Zeff",
+        "time": "11:11 AM PDT · July 16, 2025",
+        "topics": [
+            "AI",
+            "ai safety",
+            "Anthropic",
+            "Elon Musk",
+            "Grok",
+            "OpenAI",
+            "xAI"
+        ],
+        "content": [
+            {
+                "type": "text",
+                "value": "AI safety researchers from OpenAI, Anthropic, and other organizations are speaking out publicly against the “reckless” and “completely irresponsible” safety culture at xAI, the billion-dollar AI startup owned by Elon Musk."
+            },
+            {
+                "type": "text",
+                "value": "The criticisms follow weeks of scandals at xAI that have overshadowed the company’s technological advances."
+            },
+            {
+                "type": "text",
+                "value": "Last week, the company’s AI chatbot, Grok,spouted antisemitic commentsand repeatedly called itself “MechaHitler.” Shortly after xAI took its chatbot offline to address the problem, itlaunched an increasingly capable frontier AI model, Grok 4, which TechCrunch and others found toconsult Elon Musk’s personal politics for help answering hot-button issues.In the latest development,xAI launched AI companionsthat take the form of a hyper-sexualized anime girl and an overly aggressive panda."
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/2025/07/08/grok-is-being-antisemitic-again-and-also-the-sky-is-blue/"
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/"
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/"
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/2025/07/15/of-course-groks-ai-companions-want-to-have-sex-and-burn-down-schools/"
+            },
+            {
+                "type": "text",
+                "value": "Friendly joshing among employees of competing AI labs is fairly normal, but these researchers seem to be calling for increased attention to xAI’s safety practices, which they claim to be at odds with industry norms."
+            },
+            {
+                "type": "text",
+                "value": "“I didn’t want to post on Grok safety since I work at a competitor, but it’s not about competition,” said Boaz Barak, a computer science professor currently on leave from Harvard to work on safety research at OpenAI, in a Tuesdaypost on X.“I appreciate the scientists and engineers @xai but the way safety was handled is completely irresponsible.”"
+            },
+            {
+                "type": "link",
+                "value": "https://x.com/boazbaraktcs/status/1945165577154175288"
+            },
+            {
+                "type": "text",
+                "value": "Barak particularly takes issue with xAI’s decision to not publish system cards — industry standard reports that detail training methods and safety evaluations in a good faith effort to share information with the research community. As a result, Barak says it’s unclear what safety training was done on Grok 4."
+            },
+            {
+                "type": "text",
+                "value": "OpenAI and Google have a spotty reputation themselves when it comes to promptly sharing system cards when unveiling new AI models. OpenAI decidednot to publish a system card for GPT-4.1,claiming it was not a frontier model. Meanwhile,Google waited months after unveiling Gemini 2.5 Pro to publish a safety report. However, these companies historically publish safety reports for all frontier AI models before they enter full production."
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/2025/04/15/openai-ships-gpt-4-1-without-a-safety-report/"
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/2025/04/03/google-is-shipping-gemini-models-faster-than-its-ai-safety-reports/"
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/events/tc-disrupt-2025/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2025&utm_content=ticketsales&promo=tc_inline_rb&display="
+            },
+            {
+                "type": "text",
+                "value": "Barak also notes that Grok’s AI companions “take the worst issues we currently have for emotional dependencies and tries to amplify them.” In recent years, we’ve seencountless storiesofunstable people developing concerning relationship with chatbots, and how AI’s over-agreeable answers can tip them over the edge of sanity."
+            },
+            {
+                "type": "link",
+                "value": "https://apnews.com/article/chatbot-ai-lawsuit-suicide-teen-artificial-intelligence-9d48adc572100822fdbc3c90d1456bd0"
+            },
+            {
+                "type": "link",
+                "value": "https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html"
+            },
+            {
+                "type": "text",
+                "value": "Samuel Marks, an AI safety researcher with Anthropic, also took issue with xAI’s decision not to publish a safety report, calling the move “reckless.”"
+            },
+            {
+                "type": "text",
+                "value": "“Anthropic, OpenAI, and Google’s release practices have issues,” Marks wrote in apost on X. “But they at least do something, anything to assess safety pre-deployment and document findings. xAI does not.”"
+            },
+            {
+                "type": "link",
+                "value": "https://x.com/saprmarks/status/1944455357629333938"
+            },
+            {
+                "type": "text",
+                "value": "The reality is that we don’t really know what xAI did to test Grok 4. In a widely shared post in the online forum LessWrong,one anonymous researcher claims that Grok 4 has no meaningful safety guardrailsbased on their testing."
+            },
+            {
+                "type": "link",
+                "value": "https://www.lesswrong.com/posts/dqd54wpEfjKJsJBk6/xai-s-grok-4-has-no-meaningful-safety-guardrails"
+            },
+            {
+                "type": "text",
+                "value": "Whether that’s true or not, the world seems to be finding out about Grok’s shortcomings in real time. Several of xAI’s safety issues have since gone viral, and the company claims to have addressed them withtweaks to Grok’s system prompt."
+            },
+            {
+                "type": "link",
+                "value": "https://x.com/xai/status/1945039609840185489"
+            },
+            {
+                "type": "text",
+                "value": "OpenAI, Anthropic, and xAI did not respond to TechCrunch’s request for comment."
+            },
+            {
+                "type": "text",
+                "value": "Dan Hendrycks, a safety adviser for xAI and director of the Center for AI Safety,posted on Xthat the company did “dangerous capability evaluations” on Grok 4. However, the results to those evaluations have not been publicly shared."
+            },
+            {
+                "type": "link",
+                "value": "https://x.com/DanHendrycks/status/1943703394100850830"
+            },
+            {
+                "type": "text",
+                "value": "“It concerns me when standard safety practices aren’t upheld across the AI industry, like publishing the results of dangerous capability evaluations,” said Steven Adler, an independent AI researcher who previously led safety teams at OpenAI, in a statement to TechCrunch. “Governments and the public deserve to know how AI companies are handling the risks of the very powerful systems they say they’re building.”"
+            },
+            {
+                "type": "text",
+                "value": "What’s interesting about xAI’s questionable safety practices is that Musk has long beenone of the AI safety industry’s most notable advocates. The billionaire leader of xAI, Tesla, and SpaceX haswarned many timesabout the potential for advanced AI systems to cause catastrophic outcomes for humans, and he’s praised an open approach to developing AI models."
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/2024/08/26/elon-musk-unexpectedly-offers-support-for-californias-ai-bill/"
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/2023/03/28/1100-notable-signatories-just-signed-an-open-letter-asking-all-ai-labs-to-immediately-pause-for-at-least-6-months/"
+            },
+            {
+                "type": "text",
+                "value": "And yet, AI researchers at competing labs claim xAI is veering from industry norms around safely releasing AI models. In doing so, Musk’s startup may be inadvertently making a strong case for state and federal lawmakers to set rules around publishing AI safety reports."
+            },
+            {
+                "type": "text",
+                "value": "There are several attempts at the state level to do so. California state Sen. Scott Wiener ispushing a billthat would require leading AI labs — likely including xAI — to publish safety reports, whileNew York Gov. Kathy Hochul is currently considering a similar bill. Advocates of these bills note that most AI labs publish this type of information anyway — but evidently, not all of them do it consistently."
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/2025/07/09/california-lawmaker-behind-sb-1047-reignites-push-for-mandated-ai-safety-reports/"
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/2025/06/13/new-york-passes-a-bill-to-prevent-ai-fueled-disasters/"
+            },
+            {
+                "type": "text",
+                "value": "AI models today have yet to exhibit real-world scenarios in which they create truly catastrophic harms, such as the death of people or billions of dollars in damages. However, many AI researchers say that this could be a problem in the near future given the rapid progress of AI models, and the billions of dollars Silicon Valley is investing to further improve AI."
+            },
+            {
+                "type": "text",
+                "value": "But even for skeptics of such catastrophic scenarios, there’s a strong case to suggest that Grok’s misbehavior makes the products it powers today significantly worse."
+            },
+            {
+                "type": "text",
+                "value": "Grok spread antisemitism around the X platform this week,just a few weeks after the chatbot repeatedly brought up “white genocide”in conversations with users. Musk has indicated that Grok will bemore ingrained in Teslavehicles, and xAI is trying to sellits AI models to The Pentagonand other enterprises. It’s hard to imagine that people driving Musk’s cars, federal workers protecting the U.S., or enterprise employees automating tasks will be any more receptive to these misbehaviors than users on X."
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/2025/05/14/grok-is-unpromptedly-telling-x-users-about-south-african-genocide/"
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/2025/07/10/grok-is-coming-to-tesla-vehicles-next-week-says-elon-musk/"
+            },
+            {
+                "type": "link",
+                "value": "https://www.cbsnews.com/news/grok-elon-musk-xai-pentagon-contract/"
+            },
+            {
+                "type": "text",
+                "value": "Several researchers argue that AI safety and alignment testing not only ensures that the worst outcomes don’t happen, but they also protect against near-term behavioral issues."
+            },
+            {
+                "type": "text",
+                "value": "At the very least, Grok’s incidents tend to overshadow xAI’s rapid progress in developing frontier AI models that best OpenAI and Google’s technology, just a couple years after the startup was founded."
+            }
+        ]
+    },
+    {
+        "title": "GMC Hummer EV outsold the Tesla Cybertruck last quarter",
+        "author": "Sean O'Kane",
+        "time": "10:19 AM PDT · July 16, 2025",
+        "topics": [
+            "Cybertruck",
+            "electric vehicles",
+            "Elon Musk",
+            "EVs",
+            "Tesla",
+            "Transportation"
+        ],
+        "content": [
+            {
+                "type": "text",
+                "value": "Sales of Tesla’s Cybertruck have plummeted from their peak last year, to the point that the hulking (and expensive) GMC Hummer EV outsold the polarizing steel-clad curiosity in the second quarter."
+            },
+            {
+                "type": "text",
+                "value": "Tesla sold just 4,306 Cybertrucks in the second quarter, just shy of the 4,508 Hummers that GMC moved in the same period, according tonew data from Cox Automotive."
+            },
+            {
+                "type": "link",
+                "value": "https://www.coxautoinc.com/market-insights/q2-2025-ev-sales/"
+            },
+            {
+                "type": "text",
+                "value": "Both were beat by Ford’s F-150 Lightning, which once again became the best-selling electric truck in the U.S. in the first quarter, beating out the Cybertruck. But even Ford’s offering is struggling; the 5,842 Lightnings sold in Q2 was the lowest quarterly total for the company in over a year."
+            },
+            {
+                "type": "text",
+                "value": "To be fair, the GMC Hummer tally includes sales of both the pickup truck and its SUV variant, although there is very little that differentiates the two. Put another way, the SUV version of the Hummer EV still more closely resembles a truck than it does a typical sport utility vehicle."
+            },
+            {
+                "type": "text",
+                "value": "Rivian has also been struggling with its own electric truck, the R1T. The company sold just 1,752 of them last quarter, down from 3,309 in the same period last year."
+            },
+            {
+                "type": "text",
+                "value": "But the Cybertruck has had the biggest fall from grace by far. After handing over the first few units in December 2023, the company started selling them in earnest in early 2024. Sales shot up to a high of nearly 17,000 in the third quarter of 2024, but fell just as quickly, as seen in the chart above."
+            },
+            {
+                "type": "text",
+                "value": "Whether that fall was due to the brand damage wrought by Elon Musk and his involvement with the Trump administration, or the fact that the Cybertruck is still far more expensive than the $40,000 price tag Tesla promised when it revealed the EV in 2019, is difficult to say."
+            },
+            {
+                "type": "link",
+                "value": "https://techcrunch.com/events/tc-disrupt-2025/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2025&utm_content=ticketsales&promo=tc_inline_rb&display="
+            },
+            {
+                "type": "text",
+                "value": "The company, at one point, predicted it would be making as many as 250,000 Cybertrucks a year, and now has a tremendous amount of unused capacity at its Texas factory as a result."
+            },
+            {
+                "type": "text",
+                "value": "As Muskonce said about the shiny EV: “We dug our own grave with Cybertruck.”"
+            },
+            {
+                "type": "link",
+                "value": "https://www.motortrend.com/news/tesla-cybertruck-deliveries-begin-november-elon-musk"
+            }
+        ]
+    }
+]
