@@ -1,0 +1,10 @@
+{
+    "techcrunch": {
+        "domain": "techcrunch.com",
+        "links": "a.loop-card__title-link"
+    },
+    "vnexpress": {
+        "domain": "vnexpress.net",
+        "links": ".wrapper-topstory-folder a[href*='vnexpress.net']"
+    }
+}

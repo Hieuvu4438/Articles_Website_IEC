@@ -1,0 +1,51 @@
+{
+    "categories": {
+        "Trí tuệ nhân tạo và học máy": [
+            "AI trong tài chính ngân hàng",
+            "AI tạo sinh",
+            "AI đạo đức và quy định",
+            "AI trong phát triển phần mềm"
+        ],
+        "Phát triển phần mềm và dịch vụ IT": [
+            "Phát triển phần mềm di động / Web",
+            "Dịch vụ Blockchain",
+            "Phân tích dữ liệu lớn",
+            "Điện toán đám mây",
+            "Xu hướng gia công phần mềm"
+        ],
+        "Phần cứng và điện tử tiêu dùng": [
+            "Thiết bị điện tử",
+            "Thiết bị âm thanh",
+            "Điện tử gia dụng",
+            "Đánh giá phần cứng và thủ thuật",
+            "Phần cứng chơi game"
+        ],
+        "An ninh mạng": [
+            "Bảo vệ dữ liệu",
+            "An ninh internet",
+            "Chính sách an ninh mạng",
+            "Phòng chống tấn công mạng",
+            "Giải pháp an ninh doanh nghiệp"
+        ],
+        "Fintech và thương mại điện tử": [
+            "Fintech",
+            "Nền tảng thương mại điện tử",
+            "Ngân hàng kỹ thuật số",
+            "Hệ thống thanh toán",
+            "Đầu tư"
+        ],
+        "Công nghệ mới": [
+            "IoT",
+            "VR / AR",
+            "Thương mại hóa 5G",
+            "Bán dẫn",
+            "Chuyển đổi số"
+        ],
+        "Chính sách công nghệ, kinh doanh và xu hướng": [
+            "Đầu tư công nghệ / Startup",
+            "Quyền sở hữu trí tuệ",
+            "Giao thoa khoa học - công nghệ",
+            "Sự kiện công nghệ toàn cầu"
+        ]
+    }
+}
